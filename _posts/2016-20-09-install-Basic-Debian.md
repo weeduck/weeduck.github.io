@@ -372,4 +372,4 @@ echo "HOSTNAME - Shell Access on:" `date` `who` | mail -s "SSH-ACCESS on HOSTNAM
 ##Configuring the network
 
 The explanation for how you should configure the network can be found at
-[this link](networkingDebian.md).
+[this link](networking-Debian.md).
