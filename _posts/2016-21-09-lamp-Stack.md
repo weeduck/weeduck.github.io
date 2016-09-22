@@ -10,11 +10,13 @@ categories: debian
 This document explains how to install a basic LAMP stack and how to secure it.
 
 ## Contents
-1. [L is for Linux (or BSD)](#l-is-for-linux-(or-bsd))
-2. [A is for Apache (or Nginx)](#a-is-for-apache-(or-nginx))
+1. [L is for Linux (or BSD)](#l-is-for-linux)
+2. [A is for Apache (or Nginx)](#a-is-for-apache)
+3. [M is for MySQL (or PostgreSQL or ...)](#m-is-for-mysql)
+4. [P is for PHP (or Python or ...)](#p-is-for-php)
 
 
-## L is for Linux (or BSD)
+## L is for Linux
 
 The choice of an OS or distro is not always simple. Sometimes it's a question
 of capabilities but more often than not it is a question of preference.
@@ -26,7 +28,7 @@ The How To-s for some of the flavors:
 2. BSD
 
 
-## A is for Apache (or Nginx)
+## A is for Apache
 
 The choice of a web server depends heavily on what exactly we want to serve.  
 Whilst Apache is amazing at handling modules and being an all-in-one solution
@@ -37,3 +39,8 @@ The How To-s for some of the servers in contention:
 
 1. [Apache2]({% link _posts/2016-21-09-servers-Apache2.md %})
 2. [Nginx](servers-Nginx.md)
+
+## M is for MySQL
+
+
+## P is for PHP
